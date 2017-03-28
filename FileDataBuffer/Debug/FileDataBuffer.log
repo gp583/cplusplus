@@ -1,0 +1,20 @@
+﻿Build started 4/30/2015 9:51:38 AM.
+     1>Project "C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\FileDataBuffer.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Assignment07.cpp DataBuffer.cpp FileDataBuffer.cpp
+         FileDataBuffer.cpp
+     1>c:\users\giulio\documents\visual studio 2013\projects\filedatabuffer\filedatabuffer.cpp(33): warning C4101: 'x' : unreferenced local variable
+     1>c:\users\giulio\documents\visual studio 2013\projects\filedatabuffer\filedatabuffer.cpp(56): warning C4101: 'x' : unreferenced local variable
+         DataBuffer.cpp
+         Assignment07.cpp
+         Generating Code...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\Debug\FileDataBuffer.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\Debug\FileDataBuffer.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\Debug\FileDataBuffer.lib" /MACHINE:X86 Debug\Assignment07.obj
+         Debug\DataBuffer.obj
+         Debug\FileDataBuffer.obj
+         FileDataBuffer.vcxproj -> C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\Debug\FileDataBuffer.exe
+     1>Done Building Project "C:\Users\Giulio\Documents\Visual Studio 2013\Projects\FileDataBuffer\FileDataBuffer.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.08
